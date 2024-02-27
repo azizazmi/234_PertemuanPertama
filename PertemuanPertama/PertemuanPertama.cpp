@@ -28,6 +28,9 @@ int main()
 	int panjang, lebar, luas;
 	cout << "Masukkan panjang = ";
 	cin >> panjang;
+	cout << "Masukkan lebar = ";
+	cin >> lebar;
+
 
 }
 
