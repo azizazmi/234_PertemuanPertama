@@ -30,6 +30,7 @@ int main()
 	cin >> panjang;
 	cout << "Masukkan lebar = ";
 	cin >> lebar;
+	luas = panjang * lebar;
 
 
 }
